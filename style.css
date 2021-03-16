@@ -708,6 +708,8 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    /* display: flex;
+    justify-content:space-between; */
 }
 
 h2 {
@@ -744,7 +746,9 @@ h4 {
 .white {
     color: black!important;
 }
-
+.tc-black{
+    color:black;
+}
 .portfolio-thumb {
     /* margin-bottom: 24px; */
     margin: auto;
