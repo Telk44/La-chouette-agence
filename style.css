@@ -709,8 +709,6 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
-    /* display: flex;
-    justify-content:space-between; */
 }
 
 h2 {
@@ -1051,4 +1049,12 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+.col-sm-4 ul li{
+    padding:16px 0;
+    color: black;
+    
+}
+.col-sm-4 ul li a{
+    padding: 16px 0;
 }
