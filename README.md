@@ -9,4 +9,4 @@ __Rappel du cahier des charges:__
 * Tous les éléments doivent être codés en HTML et CSS. Le site doit toujours être adapté à toutes les tailles d’écran après les modifications.
 
 
-Lien du site optimisé : https://telk44.github.io/KristellLansonneur_4_04032021/
+Lien du site optimisé : https://telk44.github.io/La-chouette-agence/
